@@ -1,6 +1,6 @@
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
-# FULL CREDIT TOO https://github.com/azhinu/Web-to-App
+# FULL CREDIT TO https://github.com/azhinu/Web-to-App
 I just adapted this to my needs
 
 ### Getting started
